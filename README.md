@@ -1,6 +1,6 @@
-<p style="text-align: center;">### Hi there, I'm [Aleksey](https://github.com/Aleksey2710)👋</p>
+Hi there, I'm [Aleksey](https://github.com/Aleksey2710)👋
 
-<p style="text-align: center;">![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif)</p>
+![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif)
  
 ### Computer science student
 <!--
