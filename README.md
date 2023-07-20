@@ -8,8 +8,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student+and+a+passionate+backend+developer)](https://git.io/typing-svg)
 
-<h3 align="center">A passionate backend developer</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alekseypetkun&label=Profile%20views&color=0e75b6&style=flat" alt="alekseypetkun" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alekseypetkun" alt="alekseypetkun" /></a> </p>
