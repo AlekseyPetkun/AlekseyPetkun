@@ -1,10 +1,13 @@
-Hi there, I'm [Aleksey](https://github.com/Aleksey2710)👋
-
-![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif)
+<!--Hi there, I'm [Aleksey](https://github.com/Aleksey2710)👋-->
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
+<!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)-->
 
 <h1 align="center">Hi 👋, I'm Aleksey</h1>
+
+![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student+and+a+passionate+backend+developer)](https://git.io/typing-svg)
+
 <h3 align="center">A passionate backend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alekseypetkun&label=Profile%20views&color=0e75b6&style=flat" alt="alekseypetkun" /> </p>
