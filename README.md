@@ -6,7 +6,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmQ2ZTUxNGNjNWU2ZGU0OTgxMDc0ODdhZTJiODM3MGExYjYxMTFiZCZjdD1z/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<h1 align="center">Hi there<img src="https://raw.githubusercontent.com/StanGirard/StanGirard/master/wave.gif" width="30px">, I'm Aleksey!</h1>
+<h1 align="center">Hi there<img src="https://raw.githubusercontent.com/StanGirard/StanGirard/master/wave.gif" width="30px">, I'm Aleksey! Welcome to my GitHub profile!</h1>
 
 <!-- ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) -->
 
