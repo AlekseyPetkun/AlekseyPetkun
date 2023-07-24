@@ -55,6 +55,10 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-plain.svg" title="IntelliJ IDEA" alt="IntelliJ IDEA" width="40" height="40"/>&nbsp;
 </p>
 
+---
+
+<h3 align="left">My stats:</h3>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alekseypetkun&show_icons=true&locale=en&layout=compact" alt="alekseypetkun" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alekseypetkun&show_icons=true&locale=en" alt="alekseypetkun" /></p>
