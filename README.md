@@ -25,6 +25,13 @@
   <a href="https://vk.com/id54492782">
     <img src="https://img.shields.io/badge/ВКонтакте-blue?style=for-the-badge&logo=VK&logoColor=white" alt="ВКонтакте Badge"/>
   </a>
+ <a href="Aleks.main.app@yandex.ru">
+    <img src="https://img.shields.io/badge/https%3A%2F%2Fmail.yandex.ru-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="Sanctions my friend">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
   **Aleks.main.app@yandex.ru**
 
 <h3 align="left">Connect with me:</h3>
