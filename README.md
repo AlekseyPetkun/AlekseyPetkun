@@ -57,7 +57,7 @@
 
 ---
 
-<h3 align="left">My stats:</h3>
+## My stats:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alekseypetkun&show_icons=true&locale=en&layout=compact" alt="alekseypetkun" /></p>
 
