@@ -25,9 +25,9 @@
   <a href="https://vk.com/id54492782">
     <img src="https://img.shields.io/badge/ВКонтакте-blue?style=for-the-badge&logo=VK&logoColor=white" alt="ВКонтакте Badge"/>
   </a>-->
- [![VK Badge](https://img.shields.io/badge/ВКонтакте-blue?style=for-the-badge&logo=VK&logoColor=white)](https://vk.com/id54492782)
- [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/lngermanland) 
- [![Gmail  Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:2710aleksey@gmail.com)
+ [![VK Badge](https://img.shields.io/badge/-ВКонтакте-blue?style=for-the-badge&logo=VK&logoColor=white)](https://vk.com/id54492782)
+ [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/lngermanland) 
+ [![Gmail  Badge](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:2710aleksey@gmail.com)
  
 
 <h3 align="left">Connect with me:</h3>
