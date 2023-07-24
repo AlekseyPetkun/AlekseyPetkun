@@ -8,6 +8,12 @@
 
 <h1 align="center">Hi there<img src="https://raw.githubusercontent.com/StanGirard/StanGirard/master/wave.gif" width="30px">, I'm Aleksey! Welcome to my GitHub profile!</h1>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjg5ODI2NjdhMzQwZmQ2NzAzNGJjMTRmNTY3MGYxYWMzZDc3ODFmMSZjdD1n/dWesBcTLavkZuG35MI/giphy.gif" width="600"      height="300"/>
+</div>
+
+---
+
 <!-- ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) -->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
