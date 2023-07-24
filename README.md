@@ -20,7 +20,12 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AlekseyPetkun](https://github.com/AlekseyPetkun)
 
-- 📫 How to reach me **Aleks.main.app@yandex.ru**
+- 📫 How to reach me
+<div id="badges" align="center">
+  <a href="https://vk.com/id54492782">
+    <img src="https://img.shields.io/badge/ВКонтакте-blue?style=for-the-badge&logo=VK&logoColor=white" alt="ВКонтакте Badge"/>
+  </a>
+  **Aleks.main.app@yandex.ru**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
