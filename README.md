@@ -21,10 +21,11 @@
 - 👨‍💻 All of my projects are available at [https://github.com/AlekseyPetkun](https://github.com/AlekseyPetkun)
 
 - 📫 How to reach me
-<div id="badges" align="center">
+<!-- <div id="badges" align="center">
   <a href="https://vk.com/id54492782">
     <img src="https://img.shields.io/badge/ВКонтакте-blue?style=for-the-badge&logo=VK&logoColor=white" alt="ВКонтакте Badge"/>
-  </a>
+  </a>-->
+ [![VK Badge](https://img.shields.io/badge/ВКонтакте-blue?style=for-the-badge&logo=VK&logoColor=white)](https://vk.com/id54492782)
  [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/lngermanland) 
  [![Gmail  Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:2710aleksey@gmail.com)
  
