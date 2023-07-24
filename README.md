@@ -2,8 +2,8 @@
  
 <!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)-->
 
-<div id="header" align="right">
-  <img src="https://komarev.com/ghpvc/?username=Al3x3y86&style=flat-square&color=blue" alt=""/>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmQ2ZTUxNGNjNWU2ZGU0OTgxMDc0ODdhZTJiODM3MGExYjYxMTFiZCZjdD1z/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
 <h1 align="center">Hi there<img src="https://raw.githubusercontent.com/StanGirard/StanGirard/master/wave.gif" width="30px">, I'm Aleksey!</h1>
