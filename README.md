@@ -26,7 +26,16 @@
 
 - 👨‍💻 All of my projects are available at [public projects](https://github.com/AlekseyPetkun?tab=repositories)
 
-- 📫 How to reach me: [![VK Badge](https://img.shields.io/badge/-ВКонтакте-blue?style=for-the-badge&logo=VK&logoColor=white)](https://vk.com/id54492782)
+- 📫 How to reach me:
+
+<div id="badges" align="center">
+  <p>[![VK Badge](https://img.shields.io/badge/-ВКонтакте-blue?style=for-the-badge&logo=VK&logoColor=white)](https://vk.com/id54492782)</p>
+ <p>[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white)]</p>
+ <p>[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:2710aleksey@gmail.com)</p>
+</div>
+
+
+[![VK Badge](https://img.shields.io/badge/-ВКонтакте-blue?style=for-the-badge&logo=VK&logoColor=white)](https://vk.com/id54492782)
  [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/lngermanland) 
  [![Gmail  Badge](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:2710aleksey@gmail.com)
 <!-- <div id="badges" align="center">
