@@ -51,7 +51,7 @@
  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="postgresql" width="40" height="40"/> </a>
  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" alt="postman" width="40" height="40"/> </a> 
  <a href="https://swagger.io" target="_blank" rel="noreferrer"> <img src="---" title="Postman" alt="postman" width="40" height="40"/> </a> 
- <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" title="Spring Framework" alt="spring" width="40" height="40"/> </a> 
+ <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" title="Spring Framework" alt="spring" width="80" height="40"/> </a> 
  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://dataenginer.ru/wp-content/uploads/2022/08/image-14-267x176.png" title="Liquibase" alt="Liquibase" width="40" height="40"/>&nbsp;
   <img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/Maven.png" title="Maven" alt="Maven" width="40" height="40"/>&nbsp;
