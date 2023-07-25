@@ -22,15 +22,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alekseypetkun&label=Profile%20views&color=0e75b6&style=flat" alt="alekseypetkun" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alekseypetkun" alt="alekseypetkun" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alekseypetkun" title="LeetCode" alt="alekseypetkun" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [public projects](https://github.com/AlekseyPetkun?tab=repositories)
+- 👨‍💻 All of my projects are available at [public projects](https://github.com/AlekseyPetkun?tab=repositories "repositories")
 
 - 📫 How to reach me:
 
-[![VK Badge](https://img.shields.io/badge/-ВКонтакте-blue?style=for-the-badge&logo=VK&logoColor=white)](https://vk.com/id54492782)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/lngermanland) 
-[![Gmail  Badge](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:2710aleksey@gmail.com)
+[![VK Badge](https://img.shields.io/badge/-ВКонтакте-blue?style=for-the-badge&logo=VK&logoColor=white "VK")](https://vk.com/id54492782)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white "Telegram")](https://t.me/lngermanland) 
+[![Gmail  Badge](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white "Gmail")](mailto:2710aleksey@gmail.com)
 
 <!-- <div id="badges" align="center">
   <a href="https://vk.com/id54492782">
@@ -46,8 +46,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
- <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="docker" width="40" height="40"/> </a> 
- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="Git" alt="git" width="40" height="40"/> </a>
+ 
  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java" alt="java" width="40" height="40"/> </a> 
  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="postgresql" width="40" height="40"/> </a>
  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" alt="postman" width="40" height="40"/> </a> 
@@ -56,6 +55,8 @@
   <img src="https://dataenginer.ru/wp-content/uploads/2022/08/image-14-267x176.png" title="Liquibase" alt="Liquibase" width="40" height="40"/>&nbsp;
   <img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/Maven.png" title="Maven" alt="Maven" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-plain.svg" title="IntelliJ IDEA" alt="IntelliJ IDEA" width="40" height="40"/>&nbsp;
+   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="Git" alt="git" width="40" height="40"/> </a>
+   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="docker" width="40" height="40"/> </a> 
 </p>
 
 ---
