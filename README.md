@@ -52,10 +52,10 @@
  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" title="Java" alt="java" width="80" height="40"/> </a> 
  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="postgresql" width="40" height="40"/> </a>
  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" alt="postman" width="40" height="40"/> </a> 
- <a href="https://swagger.io" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/7658037?v=4" title="Swagger" alt="swagger" width="40" height="40"/> </a> 
+ <a href="https://swagger.io" target="_blank" rel="noreferrer"> <img src="https://iconape.com/wp-content/files/kd/371533/svg/371533.svg" title="Swagger" alt="swagger" width="40" height="40"/> </a> 
  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" title="Spring Framework" alt="spring" width="80" height="40"/> </a> 
  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" title="HTML5" alt="HTML" width="80" height="40"/>&nbsp;
-  <img src="https://dataenginer.ru/wp-content/uploads/2022/08/image-14-267x176.png" title="Liquibase" alt="Liquibase" width="40" height="40"/>&nbsp;
+  <img src="https://upload.vectorlogo.zone/logos/liquibase/images/bd2ff83d-5758-4629-ad54-b1de6f15c7c1.svg" title="Liquibase" alt="Liquibase" width="40" height="40"/>&nbsp;
   <img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/Maven.png" title="Maven" alt="Maven" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg" title="Gradle" alt="Gradle" width="80" height="40"/>&nbsp;
    <img src="https://upload.vectorlogo.zone/logos/jetbrains_idea/images/d4398a36-c378-4511-a508-106ded6cd69a.svg" title="IntelliJ IDEA" alt="IntelliJ IDEA" width="40" height="40"/>&nbsp;
