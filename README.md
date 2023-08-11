@@ -32,12 +32,6 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white "Telegram")](https://t.me/lngermanland) 
 [![Gmail  Badge](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white "Gmail")](mailto:2710aleksey@gmail.com)
 
-<!-- <div id="badges" align="center">
-  <a href="https://vk.com/id54492782">
-    <img src="https://img.shields.io/badge/ВКонтакте-blue?style=for-the-badge&logo=VK&logoColor=white" alt="ВКонтакте Badge"/>
-  </a>-->
- 
- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
