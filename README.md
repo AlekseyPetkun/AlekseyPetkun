@@ -56,6 +56,11 @@
    <img src="https://upload.vectorlogo.zone/logos/jetbrains_idea/images/d4398a36-c378-4511-a508-106ded6cd69a.svg" title="IntelliJ IDEA" alt="IntelliJ IDEA" width="40" height="40"/>&nbsp;
    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" title="Git" alt="git" width="80" height="40"/> </a>
    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" title="Docker" alt="docker" width="50" height="40"/> </a> 
+
+   <a href="https://www.kafka.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg" title="Kafka" alt="kafka" width="60" height="40"/> </a> 
+
+   <a href="https://www.redis.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg" title="Redis" alt="redis" width="60" height="40"/> </a> 
+   
 </p>
 
 ---
