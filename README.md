@@ -71,7 +71,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alekseypetkun&" alt="alekseypetkun" /></p>
 
-
 <!--
 **Aleksey2710/Aleksey2710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
